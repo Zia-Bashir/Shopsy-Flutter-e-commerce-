@@ -1,0 +1,388 @@
+{
+    "id":"PopularProducts",
+    "products":[
+        {
+            "productId":"p001",
+            "title":"Apple Watch With White Sports Band",
+            "description":"Wireless Controller for PS4™ gives you what you want in your gaming from over precision control your games to sharing.",
+            "rating":5,
+            "price":129.99,
+            "brandName":"",
+            "categoryName":"",
+            "discount":0,
+            "inStock":10,
+            "isPopular":false,
+            "isBestSeller":false,
+            "productImages":[
+                {
+                    "image":"https://firebasestorage.googleapis.com/v0/b/shopsy-f9b35.appspot.com/o/products%2Fpro001%2F1.png?alt=media&token=59232ca8-0ee6-4cb5-9057-95afe66f8438"
+                },
+                {
+                    "image":"https://firebasestorage.googleapis.com/v0/b/shopsy-f9b35.appspot.com/o/products%2Fpro001%2F3.png?alt=media&token=799416b8-063c-4e5a-897b-e9752318e8ef"
+                },
+                {
+                    "image":"https://firebasestorage.googleapis.com/v0/b/shopsy-f9b35.appspot.com/o/products%2Fpro001%2F0.png?alt=media&token=776c7aca-e18d-4293-b0b3-7ca98de4128a"
+                },
+                {
+                    "image":"https://firebasestorage.googleapis.com/v0/b/shopsy-f9b35.appspot.com/o/products%2Fpro001%2F2.png?alt=media&token=2e103c2d-ddf7-468c-b109-797df98abc9f"
+                },
+                {
+                    "image":""
+                }
+            ],
+            "ProductColors":[
+                {
+                    "color":"0xffFFFFFF"
+                    
+                },
+                {
+                    "color":"0xff35d4c5"
+                    
+                }
+            ]
+        },
+        {
+            "productId":"p002",
+            "title":"Apple AirPod Max ",
+            "description":"Wireless Controller for PS4™ gives you what you want in your gaming from over precision control your games to sharing.",
+            "rating":5,
+            "price":199.99,
+            "brandName":"",
+            "categoryName":"",
+            "discount":0,
+            "inStock":10,
+            "isPopular":false,
+            "isBestSeller":false,
+            "productImages":[
+               
+                {
+                    "image":"https://firebasestorage.googleapis.com/v0/b/shopsy-f9b35.appspot.com/o/products%2Fpro002%2F8ae62b240734b56f503a56ce78c2a259-removebg-preview.png?alt=media&token=c83c99cf-779c-4d02-9c17-4e9d2818db94"
+                },
+                {
+                    "image":"https://firebasestorage.googleapis.com/v0/b/shopsy-f9b35.appspot.com/o/products%2Fpro002%2F3d49659841d18bb2a073aed4bcfcf6bb-removebg-preview.png?alt=media&token=4d118872-7a43-4ea3-9e43-ebd75e3f34c8"
+                },
+                {
+                    "image":"https://firebasestorage.googleapis.com/v0/b/shopsy-f9b35.appspot.com/o/products%2Fpro002%2Fe51734d537829df61143f668297bd2db-removebg-preview.png?alt=media&token=183da578-f738-422d-849b-b57343b1371f"
+                }
+
+            ],
+            "ProductColors":[
+                {
+                    "color":"0xffFFFFFF"
+                    
+                },
+                {
+                    "color":"0xff35d4c5"
+                    
+                }
+            ]
+        },
+        {
+            "productId":"p003",
+            "title":"Wireless Headphones ",
+            "description":"Wireless Controller for PS4™ gives you what you want in your gaming from over precision control your games to sharing.",
+            "rating":5,
+            "price":29.99,
+            "brandName":"",
+            "categoryName":"",
+            "discount":0,
+            "inStock":10,
+            "isPopular":false,
+            "isBestSeller":false,
+            "productImages":[
+                
+                {
+                    "image":"https://firebasestorage.googleapis.com/v0/b/shopsy-f9b35.appspot.com/o/products%2Fpro003%2Faccb01299055d0c01d17a43489cb1136-removebg-preview.png?alt=media&token=2af66ea8-126d-49ef-8bc8-29b89c5fa6ef"
+                },
+                {
+                    "image":"https://firebasestorage.googleapis.com/v0/b/shopsy-f9b35.appspot.com/o/products%2Fpro003%2Fefc0760566823a2acda5fd8a8970d9c5-removebg-preview.png?alt=media&token=c9b18b3f-7da0-4a2a-b4a9-25a427533f92"
+                }
+            ],
+            "ProductColors":[
+                {
+                    "color":"0xffFFFFFF"
+                    
+                },
+                {
+                    "color":"0xff35d4c5"
+                    
+                }
+            ]
+        },
+        {
+            "productId":"p004",
+            "title":"Best Gaming AirPods",
+            "description":"Wireless Controller for PS4™ gives you what you want in your gaming from over precision control your games to sharing.",
+            "rating":5,
+            "price":14.99,
+            "brandName":"",
+            "categoryName":"",
+            "discount":0,
+            "inStock":10,
+            "isPopular":false,
+            "isBestSeller":false,
+            "productImages":[
+                
+                {
+                    "image":"https://firebasestorage.googleapis.com/v0/b/shopsy-f9b35.appspot.com/o/products%2Fpro004%2Fearpods_concept_2__1_-removebg-preview.png?alt=media&token=dff9ff24-e80a-4f75-bcf1-ff75a5651bd3"
+                },
+                {
+                    "image":"https://firebasestorage.googleapis.com/v0/b/shopsy-f9b35.appspot.com/o/products%2Fpro004%2Fearpods_concept_3-removebg-preview.png?alt=media&token=28cb5722-1ab4-47b9-ba36-106de60996a4"
+                },
+                {
+                    "image":"https://firebasestorage.googleapis.com/v0/b/shopsy-f9b35.appspot.com/o/products%2Fpro004%2Fearpods_concept_4-removebg-preview.png?alt=media&token=3f4e4743-6467-466b-9124-4e6311e1b058"
+                }
+            ],
+            "ProductColors":[
+                {
+                    "color":"0xffFFFFFF"
+                    
+                },
+                {
+                    "color":"0xff35d4c5"
+                    
+                }
+            ]
+        },
+        {
+            "productId":"p005",
+            "title":"Black Sony PS2 Controller",
+            "description":"Wireless Controller for PS4™ gives you what you want in your gaming from over precision control your games to sharing.",
+            "rating":5,
+            "price":59.99,
+            "brandName":"",
+            "categoryName":"",
+            "discount":0,
+            "inStock":10,
+            "isPopular":false,
+            "isBestSeller":false,
+            "productImages":[
+                
+                {
+                    "image":"https://firebasestorage.googleapis.com/v0/b/shopsy-f9b35.appspot.com/o/products%2Fpro005%2Fpexels-stas-knop-1298601-removebg-preview.png?alt=media&token=703b6cea-3971-4264-8971-0ae126774753"
+                }
+            ],
+            "ProductColors":[
+                {
+                    "color":"0xffFFFFFF"
+                    
+                },
+                {
+                    "color":"0xff35d4c5"
+                    
+                }
+            ]
+        },
+        {
+            "productId":"p006",
+            "title":"Black Microsoft Xbox Game Controller",
+            "description":"Wireless Controller for PS4™ gives you what you want in your gaming from over precision control your games to sharing.",
+            "rating":5,
+            "price":129.99,
+            "brandName":"",
+            "categoryName":"",
+            "discount":0,
+            "inStock":10,
+            "isPopular":false,
+            "isBestSeller":false,
+            "productImages":[
+                
+                {
+                    "image":"https://firebasestorage.googleapis.com/v0/b/shopsy-f9b35.appspot.com/o/products%2Fpro006%2Fpexels-stas-knop-1579240-removebg-preview.png?alt=media&token=4f0982e1-a8fb-43f8-be0d-11108f41423a"
+                }
+            ],
+            "ProductColors":[
+                {
+                    "color":"0xffFFFFFF"
+                    
+                },
+                {
+                    "color":"0xff35d4c5"
+                    
+                }
+            ]
+        },
+        {
+            "productId":"p007",
+            "title":"Wireless Controller for PS4™",
+            "description":"Wireless Controller for PS4™ gives you what you want in your gaming from over precision control your games to sharing.",
+            "rating":5,
+            "price":49.99,
+            "brandName":"",
+            "categoryName":"",
+            "discount":0,
+            "inStock":100,
+            "isPopular":false,
+            "isBestSeller":false,
+            "productImages":[
+                {
+                    "image":"https://firebasestorage.googleapis.com/v0/b/shopsy-f9b35.appspot.com/o/PopularProducts%2Fp001%2F0.png?alt=media&token=bafe4857-6996-4fdb-920d-676b4227ac2a"
+                },
+                {
+                    "image":"https://firebasestorage.googleapis.com/v0/b/shopsy-f9b35.appspot.com/o/PopularProducts%2Fp001%2F1.png?alt=media&token=f82b2deb-6490-45a7-8cc1-3c198124d784"
+                }
+            ],
+            "ProductColors":[
+                {
+                    "color":"0xffFFFFFF"
+                    
+                },
+                {
+                    "color":"0xff35d4c5"
+                    
+                }
+            ]
+        },
+        {
+            "productId":"p008",
+            "title":"Samsung Galaxy Buds Pro",
+            "description":"Wireless Controller for PS4™ gives you what you want in your gaming from over precision control your games to sharing.",
+            "rating":5,
+            "price":24.99,
+            "brandName":"",
+            "categoryName":"",
+            "discount":0,
+            "inStock":100,
+            "isPopular":false,
+            "isBestSeller":false,
+            "productImages":[
+                {
+                    "image":"https://firebasestorage.googleapis.com/v0/b/shopsy-f9b35.appspot.com/o/PopularProducts%2Fp002%2F0.png?alt=media&token=8a32de15-07bc-42a1-9759-b5defff82468"
+                },
+                {
+                    "image":"https://firebasestorage.googleapis.com/v0/b/shopsy-f9b35.appspot.com/o/PopularProducts%2Fp002%2F1.png?alt=media&token=f820866c-0cd7-42e0-a8f2-448fc22246e1"
+                },
+                {
+                    "image":"https://firebasestorage.googleapis.com/v0/b/shopsy-f9b35.appspot.com/o/PopularProducts%2Fp002%2F2.png?alt=media&token=084a793a-0c18-491d-99d2-6b5ab1c57584"
+                }
+            ],
+            "ProductColors":[
+                {
+                    "color":"0xff000000"
+                }
+                
+            ]
+        },
+        {
+            "productId":"p009",
+            "title":"Dell Vostro 3510 (11th Generation Intel Core i5 Titan Grey 256GB + 8GB)",
+            "description":"Wireless Controller for PS4™ gives you what you want in your gaming from over precision control your games to sharing.",
+            "rating":5,
+            "price":599.99,
+            "brandName":"",
+            "categoryName":"",
+            "discount":0,
+            "inStock":100,
+            "isPopular":false,
+            "isBestSeller":false,
+            "productImages":[
+                {
+                    "image":"https://firebasestorage.googleapis.com/v0/b/shopsy-f9b35.appspot.com/o/PopularProducts%2Fp003%2F2.png?alt=media&token=2274110b-14f0-4ae8-ad0f-1ac2ea7b9ce7"
+                },
+                {
+                    "image":"https://firebasestorage.googleapis.com/v0/b/shopsy-f9b35.appspot.com/o/PopularProducts%2Fp003%2F1.png?alt=media&token=59fc863f-ba8a-4b0d-b821-e06370c59702"
+                },
+                {
+                    "image":"https://firebasestorage.googleapis.com/v0/b/shopsy-f9b35.appspot.com/o/PopularProducts%2Fp003%2F0.png?alt=media&token=ba4ff0cf-f26f-40a7-97d6-2e08a8b0a9db"
+                },
+                {
+                    "image":"https://firebasestorage.googleapis.com/v0/b/shopsy-f9b35.appspot.com/o/PopularProducts%2Fp003%2F3.png?alt=media&token=d2cf5c58-db8d-4ec7-a660-ea4f8474e8bc"
+                }
+            ],
+            "ProductColors":[
+                {
+                    "color":"0xffcccccc"
+                },
+                {
+                    "color":"0xff000000"
+                },
+                {
+                    "color":"0xff056d00"
+                }
+            ]
+        },
+        {
+            "productId":"p010",
+            "title":"Sony-WH-1000XM4",
+            "description":"Wireless Controller for PS4™ gives you what you want in your gaming from over precision control your games to sharing.",
+            "rating":5,
+            "price":109.99,
+            "brandName":"",
+            "categoryName":"",
+            "discount":0,
+            "inStock":100,
+            "isPopular":false,
+            "isBestSeller":false,
+            "productImages":[
+                {
+                    "image":"https://firebasestorage.googleapis.com/v0/b/shopsy-f9b35.appspot.com/o/PopularProducts%2Fp004%2F0.png?alt=media&token=68ba91bd-fe86-435e-bf4a-a7b6e9551e71"
+                },
+                {
+                    "image":"https://firebasestorage.googleapis.com/v0/b/shopsy-f9b35.appspot.com/o/PopularProducts%2Fp004%2F1.png?alt=media&token=da2e2983-4e33-4dd2-8d35-a67589f1fd30"
+                },
+                {
+                    "image":"https://firebasestorage.googleapis.com/v0/b/shopsy-f9b35.appspot.com/o/PopularProducts%2Fp004%2F2.png?alt=media&token=48b1ee38-a819-4d7b-bf47-f55fc82fb57a"
+                },
+                {
+                    "image":"https://firebasestorage.googleapis.com/v0/b/shopsy-f9b35.appspot.com/o/PopularProducts%2Fp004%2F3.png?alt=media&token=f4854dc0-5447-4ef3-8265-6060f76003a7"
+                }
+            ],
+            "ProductColors":[
+                {
+                    "color":"0xff000000"
+                },
+                {
+                    "color":"0xfff98526"
+                },
+                {
+                    "color":"0xff000000"
+                },
+                {
+                    "color":"0xff056d00"
+                }
+            ]
+        },
+        {
+            "productId":"p011",
+            "title":"Xiaomi Redmi Watch 2",
+            "description":"Wireless Controller for PS4™ gives you what you want in your gaming from over precision control your games to sharing.",
+            "rating":5,
+            "price":79.99,
+            "brandName":"",
+            "categoryName":"",
+            "discount":0,
+            "inStock":100,
+            "isPopular":false,
+            "isBestSeller":false,
+            "productImages":[
+                {
+                    "image":"https://firebasestorage.googleapis.com/v0/b/shopsy-f9b35.appspot.com/o/PopularProducts%2Fp005%2F0.png?alt=media&token=456489dc-ca2c-495a-9197-3925e633cf3a"
+                },
+                {
+                    "image":"https://firebasestorage.googleapis.com/v0/b/shopsy-f9b35.appspot.com/o/PopularProducts%2Fp005%2F1.png?alt=media&token=ca658a76-2480-4a86-9de8-ed271e981802"
+                },
+                {
+                    "image":"https://firebasestorage.googleapis.com/v0/b/shopsy-f9b35.appspot.com/o/PopularProducts%2Fp005%2F2.png?alt=media&token=d9140c90-f0ce-404e-ba19-1d61b7678a42"
+                },
+                {
+                    "image":"https://firebasestorage.googleapis.com/v0/b/shopsy-f9b35.appspot.com/o/PopularProducts%2Fp005%2F3.png?alt=media&token=a7be3f16-c899-4c55-b948-3548e7490b1d"
+                }
+            ],
+            "ProductColors":[
+                {
+                    "color":"0xfff98526"
+                },
+                {
+                    "color":"0xff000000"
+                },
+                {
+                    "color":"0xff056d00"
+                },
+                {
+                    "color":"0xff400290"
+                }
+            ]
+        }
+    ]
+    
+}
